@@ -1,5 +1,0 @@
-SELECT      AS
-FROM
-JOIN
-ON
-ORDER BY
