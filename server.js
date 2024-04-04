@@ -6,9 +6,9 @@ const cTable = require('console.table')
 //connect to database
 const pool = new Pool(
     {
-        // TODO: Enter PostgreSQL username
+        
         user: 'postgres',
-        // TODO: Enter PostgreSQL password
+        
         password: 'Benzo_115',
         host: 'localhost',
         database: 'tracker_db'
